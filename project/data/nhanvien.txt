@@ -1,0 +1,6 @@
+BH01;Hoang Van Toi;6h-12h;0385458332;ricardo@gmail.com
+VS01;Hoang Van Hoi;6h-12h;0385458333;Hoigym88@gmail.com
+BH02;Le Van Nhat;12h-18h;0987654321;Nhatsociu@gmail.com
+VS02;Hoang Dinh Huan;12h-18h;0897654312;huanrose@gmail.com
+BH03;Hoang Duc Long;18h-22h;081238141;hoanglong@gmail.com
+VS03;Nguyen Truong Giang;18h-22h;012832184;giangjk@gmail.com
